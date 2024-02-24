@@ -1,11 +1,10 @@
 # Calculator
 This is Calculator create using html css and javascript
 ## calculator 
-![screenshots](.\images\calculator.png)
-
+![alt text](images/calculator.png)
 ## Needs of calculator
-1. 
-2. 
-3. 
+1. Easy to calculate.
+2. To do correct calculation .
+3. Macking calculation easier.
 
 
